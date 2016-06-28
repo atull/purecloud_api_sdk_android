@@ -1,0 +1,347 @@
+package io.swagger.client.model;
+
+import java.util.Objects;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import io.swagger.client.model.UriReference;
+import java.util.Date;
+
+import com.google.gson.annotations.SerializedName;
+
+
+
+
+
+public class Extension   {
+  
+  @SerializedName("id")
+  private String id = null;
+
+  @SerializedName("name")
+  private String name = null;
+
+  @SerializedName("description")
+  private String description = null;
+
+  @SerializedName("version")
+  private Integer version = null;
+
+  @SerializedName("dateCreated")
+  private Date dateCreated = null;
+
+  @SerializedName("dateModified")
+  private Date dateModified = null;
+
+  @SerializedName("modifiedBy")
+  private String modifiedBy = null;
+
+  @SerializedName("createdBy")
+  private String createdBy = null;
+
+
+  /**
+   * Gets or Sets state
+   */
+  public enum StateEnum {
+    @SerializedName("active")
+    ACTIVE("active"),
+
+    @SerializedName("inactive")
+    INACTIVE("inactive"),
+
+    @SerializedName("deleted")
+    DELETED("deleted");
+
+    private String value;
+
+    StateEnum(String value) {
+      this.value = value;
+    }
+
+    @Override
+    public String toString() {
+      return String.valueOf(value);
+    }
+  }
+
+  @SerializedName("state")
+  private StateEnum state = null;
+
+  @SerializedName("modifiedByApp")
+  private String modifiedByApp = null;
+
+  @SerializedName("createdByApp")
+  private String createdByApp = null;
+
+  @SerializedName("number")
+  private String number = null;
+
+  @SerializedName("owner")
+  private UriReference owner = null;
+
+  @SerializedName("extensionPool")
+  private UriReference extensionPool = null;
+
+
+  /**
+   * Gets or Sets ownerType
+   */
+  public enum OwnerTypeEnum {
+    @SerializedName("USER")
+    USER("USER"),
+
+    @SerializedName("PHONE")
+    PHONE("PHONE"),
+
+    @SerializedName("IVR_CONFIG")
+    IVR_CONFIG("IVR_CONFIG"),
+
+    @SerializedName("GROUP")
+    GROUP("GROUP");
+
+    private String value;
+
+    OwnerTypeEnum(String value) {
+      this.value = value;
+    }
+
+    @Override
+    public String toString() {
+      return String.valueOf(value);
+    }
+  }
+
+  @SerializedName("ownerType")
+  private OwnerTypeEnum ownerType = null;
+
+  @SerializedName("selfUri")
+  private String selfUri = null;
+
+  /**
+   * The globally unique identifier for the object.
+   **/
+  @ApiModelProperty(value = "The globally unique identifier for the object.")
+  public String getId() {
+    return id;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public String getName() {
+    return name;
+  }
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public String getDescription() {
+    return description;
+  }
+  public void setDescription(String description) {
+    this.description = description;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public Integer getVersion() {
+    return version;
+  }
+  public void setVersion(Integer version) {
+    this.version = version;
+  }
+
+  /**
+   * Date time is represented as an ISO-8601 string. For example: yyyy-MM-ddTHH:mm:ss.SSSZ
+   **/
+  @ApiModelProperty(value = "Date time is represented as an ISO-8601 string. For example: yyyy-MM-ddTHH:mm:ss.SSSZ")
+  public Date getDateCreated() {
+    return dateCreated;
+  }
+  public void setDateCreated(Date dateCreated) {
+    this.dateCreated = dateCreated;
+  }
+
+  /**
+   * Date time is represented as an ISO-8601 string. For example: yyyy-MM-ddTHH:mm:ss.SSSZ
+   **/
+  @ApiModelProperty(value = "Date time is represented as an ISO-8601 string. For example: yyyy-MM-ddTHH:mm:ss.SSSZ")
+  public Date getDateModified() {
+    return dateModified;
+  }
+  public void setDateModified(Date dateModified) {
+    this.dateModified = dateModified;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public String getModifiedBy() {
+    return modifiedBy;
+  }
+  public void setModifiedBy(String modifiedBy) {
+    this.modifiedBy = modifiedBy;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public String getCreatedBy() {
+    return createdBy;
+  }
+  public void setCreatedBy(String createdBy) {
+    this.createdBy = createdBy;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public StateEnum getState() {
+    return state;
+  }
+  public void setState(StateEnum state) {
+    this.state = state;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public String getModifiedByApp() {
+    return modifiedByApp;
+  }
+  public void setModifiedByApp(String modifiedByApp) {
+    this.modifiedByApp = modifiedByApp;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public String getCreatedByApp() {
+    return createdByApp;
+  }
+  public void setCreatedByApp(String createdByApp) {
+    this.createdByApp = createdByApp;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public String getNumber() {
+    return number;
+  }
+  public void setNumber(String number) {
+    this.number = number;
+  }
+
+  /**
+   * A Uri reference to the owner of this extension, which is either a User or an IVR
+   **/
+  @ApiModelProperty(value = "A Uri reference to the owner of this extension, which is either a User or an IVR")
+  public UriReference getOwner() {
+    return owner;
+  }
+  public void setOwner(UriReference owner) {
+    this.owner = owner;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public UriReference getExtensionPool() {
+    return extensionPool;
+  }
+  public void setExtensionPool(UriReference extensionPool) {
+    this.extensionPool = extensionPool;
+  }
+
+  /**
+   **/
+  @ApiModelProperty(value = "")
+  public OwnerTypeEnum getOwnerType() {
+    return ownerType;
+  }
+  public void setOwnerType(OwnerTypeEnum ownerType) {
+    this.ownerType = ownerType;
+  }
+
+  /**
+   * The URI for this object
+   **/
+  @ApiModelProperty(value = "The URI for this object")
+  public String getSelfUri() {
+    return selfUri;
+  }
+
+
+  @Override
+  public boolean equals(Object o) {
+    if (this == o) {
+      return true;
+    }
+    if (o == null || getClass() != o.getClass()) {
+      return false;
+    }
+    Extension extension = (Extension) o;
+    return Objects.equals(id, extension.id) &&
+        Objects.equals(name, extension.name) &&
+        Objects.equals(description, extension.description) &&
+        Objects.equals(version, extension.version) &&
+        Objects.equals(dateCreated, extension.dateCreated) &&
+        Objects.equals(dateModified, extension.dateModified) &&
+        Objects.equals(modifiedBy, extension.modifiedBy) &&
+        Objects.equals(createdBy, extension.createdBy) &&
+        Objects.equals(state, extension.state) &&
+        Objects.equals(modifiedByApp, extension.modifiedByApp) &&
+        Objects.equals(createdByApp, extension.createdByApp) &&
+        Objects.equals(number, extension.number) &&
+        Objects.equals(owner, extension.owner) &&
+        Objects.equals(extensionPool, extension.extensionPool) &&
+        Objects.equals(ownerType, extension.ownerType) &&
+        Objects.equals(selfUri, extension.selfUri);
+  }
+
+  @Override
+  public int hashCode() {
+    return Objects.hash(id, name, description, version, dateCreated, dateModified, modifiedBy, createdBy, state, modifiedByApp, createdByApp, number, owner, extensionPool, ownerType, selfUri);
+  }
+
+  @Override
+  public String toString() {
+    StringBuilder sb = new StringBuilder();
+    sb.append("class Extension {\n");
+    
+    sb.append("    id: ").append(toIndentedString(id)).append("\n");
+    sb.append("    name: ").append(toIndentedString(name)).append("\n");
+    sb.append("    description: ").append(toIndentedString(description)).append("\n");
+    sb.append("    version: ").append(toIndentedString(version)).append("\n");
+    sb.append("    dateCreated: ").append(toIndentedString(dateCreated)).append("\n");
+    sb.append("    dateModified: ").append(toIndentedString(dateModified)).append("\n");
+    sb.append("    modifiedBy: ").append(toIndentedString(modifiedBy)).append("\n");
+    sb.append("    createdBy: ").append(toIndentedString(createdBy)).append("\n");
+    sb.append("    state: ").append(toIndentedString(state)).append("\n");
+    sb.append("    modifiedByApp: ").append(toIndentedString(modifiedByApp)).append("\n");
+    sb.append("    createdByApp: ").append(toIndentedString(createdByApp)).append("\n");
+    sb.append("    number: ").append(toIndentedString(number)).append("\n");
+    sb.append("    owner: ").append(toIndentedString(owner)).append("\n");
+    sb.append("    extensionPool: ").append(toIndentedString(extensionPool)).append("\n");
+    sb.append("    ownerType: ").append(toIndentedString(ownerType)).append("\n");
+    sb.append("    selfUri: ").append(toIndentedString(selfUri)).append("\n");
+    sb.append("}");
+    return sb.toString();
+  }
+
+  /**
+   * Convert the given object to string with each line indented by 4 spaces
+   * (except the first line).
+   */
+  private String toIndentedString(Object o) {
+    if (o == null) {
+      return "null";
+    }
+    return o.toString().replace("\n", "\n    ");
+  }
+}
