@@ -1,1 +1,0 @@
-include ':app', ':swagger-java-client-1.0.0'
