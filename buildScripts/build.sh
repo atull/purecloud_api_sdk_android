@@ -51,9 +51,6 @@ cd $WORKSPACE/repo/build
 cp $WORKSPACE/repo/README.md $WORKSPACE/repo/build/docs/index.md
 zip -r ${WORKSPACE}/doc.zip docs/*
 
-	echo "Adding to commit"
-	git add .
-	git commit -am $PACKAGE_VERSION
 # Conditionally commit
 cd $WORKSPACE/repo/
 #if [[ -f "$REPO/newVersion.md" && $SKIP_COMMIT != true ]]
