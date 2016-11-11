@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"mkdirp":"*",
+		"github-api-promise":"*",
+		"dateformat":"*",
+		"q":"*",
+		"archiver":"*",
+		"purecloud-api-sdk-common":"git://github.com/MyPureCloud/purecloud_api_sdk_common.git",
+    		"lodash" : "4.0.0",
+		"superagent": "1.x"
+	}
+}
