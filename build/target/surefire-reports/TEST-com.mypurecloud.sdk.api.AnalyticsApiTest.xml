@@ -59,25 +59,25 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.266" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getConversationsConversationIdDetailsTest"/>
+  <testcase time="0.263" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getConversationsConversationIdDetailsTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingMetadataTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postUsersAggregatesQueryTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postConversationsDetailsQueryTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postUsersAggregatesQueryTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postConversationsDetailsQueryTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingSchedulesScheduleIdTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postReportingSchedulesScheduleIdRunreportTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postConversationsAggregatesQueryTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postConversationsAggregatesQueryTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postQueuesObservationsQueryTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="deleteReportingSchedulesScheduleIdTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingTimeperiodsTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postEvaluationsAggregatesQueryTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingSchedulesScheduleIdHistoryLatestTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postConversationsConversationIdDetailsPropertiesTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postUsersObservationsQueryTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postUsersObservationsQueryTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingReportformatsTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="putReportingSchedulesScheduleIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="postReportingSchedulesTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingReportIdMetadataTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingSchedulesScheduleIdHistoryRunIdTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingSchedulesScheduleIdHistoryTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingSchedulesScheduleIdHistoryTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.AnalyticsApiTest" name="getReportingSchedulesTest"/>
 </testsuite>

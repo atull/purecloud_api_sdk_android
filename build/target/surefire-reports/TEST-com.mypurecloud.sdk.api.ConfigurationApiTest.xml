@@ -59,9 +59,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.261" classname="com.mypurecloud.sdk.api.ConfigurationApiTest" name="putRecordingkeysRotationscheduleTest"/>
+  <testcase time="0.262" classname="com.mypurecloud.sdk.api.ConfigurationApiTest" name="putRecordingkeysRotationscheduleTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConfigurationApiTest" name="postRecordingkeysTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConfigurationApiTest" name="getRecordingkeysTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConfigurationApiTest" name="getRecordingkeysTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConfigurationApiTest" name="getRecordingkeysRotationscheduleTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConfigurationApiTest" name="getProvidersEdgesEdgeIdSetuppackageTest"/>
 </testsuite>
