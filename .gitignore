@@ -14,7 +14,10 @@
 /buildScripts/node_modules/
 /buildScripts/npm-debug.log
 /buildScripts/configureLocalEnvironment.sh
-/bin/
+/bin/config.json
+/bin/notificationMappings.json
+/bin/VERSION
+/bin/*.*
 npm-debug.log
 /local/
 newVersion.md
