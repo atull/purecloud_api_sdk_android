@@ -30,7 +30,7 @@ export PATH=$PATH:/usr/local/maven/bin
 
 # Compile module
 cd $WORKSPACE/repo/build
-
+mvn clean package
 #echo "BUILD_MODE=$BUILD_MODE"
 #if [ $BUILD_MODE == "verify" ]
 #then
