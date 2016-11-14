@@ -59,10 +59,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.262" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="getClientsClientIdTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="getClientsTest"/>
+  <testcase time="0.266" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="getClientsClientIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="getClientsTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="deleteClientsClientIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="putClientsClientIdTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="postClientsTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="postClientsClientIdSecretTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="postClientsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.OAuthApiTest" name="postClientsClientIdSecretTest"/>
 </testsuite>
