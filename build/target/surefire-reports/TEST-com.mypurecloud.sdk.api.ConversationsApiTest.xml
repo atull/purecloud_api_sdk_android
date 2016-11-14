@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.513" errors="0" skipped="0" tests="65" name="com.mypurecloud.sdk.api.ConversationsApiTest">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
+    <property name="java.vm.version" value="24.91-b01"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/root/.jenkins/jobs/purecloud-android-sdk/workspace/repo/build"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/root/.jenkins/jobs/purecloud-android-sdk/workspace/repo/build"/>
+    <property name="java.runtime.version" value="1.7.0_91-b02"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/local/apache-maven-3.3.9/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.19.0-25-generic"/>
+    <property name="user.home" value="/root"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.name" value="root"/>
+    <property name="java.class.path" value="/usr/local/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/usr/lib/jvm/java-7-openjdk-amd64/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_91"/>
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/local/apache-maven-3.3.9"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase time="0.28" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationsTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationsConversationIdDetailsTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdMessagesMessageIdTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdParticipantsParticipantIdTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdParticipantsParticipantIdWrapupcodesTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationIdParticipantsParticipantIdCallbacksTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallbacksCallbackIdParticipantsParticipantIdWrapupTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallbacksCallbackIdTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdConsultTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationsDetailsQueryTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postFaxesTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postChatsChatIdParticipantsParticipantIdReplaceTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="putEmailsEmailIdMessagesDraftTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallbacksCallbackIdParticipantsParticipantIdWrapupcodesTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsChatIdParticipantsParticipantIdWrapupcodesTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationIdParticipantsParticipantIdReplaceTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdMessagesDraftTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="deleteConversationIdParticipantsParticipantIdCodesAddcommunicationcodeTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationsAggregatesQueryTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdParticipantsParticipantIdWrapupTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsHistoryTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallbacksCallbackIdParticipantsParticipantIdReplaceTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdReplaceTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="deleteCallsCallIdParticipantsParticipantIdConsultTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationsConversationIdDetailsPropertiesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdMonitorTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallbacksTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationIdParticipantsParticipantIdWrapupTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postEmailsEmailIdMessagesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsChatIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchConversationIdParticipantsParticipantIdAttributesTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdParticipantsParticipantIdAttributesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsMaximumconferencepartiesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchEmailsEmailIdParticipantsParticipantIdAttributesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdParticipantsParticipantIdWrapupcodesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="deleteEmailsEmailIdMessagesDraftAttachmentsAttachmentIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchEmailsEmailIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsChatIdParticipantsParticipantIdWrapupTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationIdParticipantsParticipantIdWrapupcodesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdAttributesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallbacksTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postEmailsEmailIdParticipantsParticipantIdReplaceTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdMessagesTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchEmailsEmailIdParticipantsParticipantIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchConversationIdParticipantsParticipantIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdConsultTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdParticipantsParticipantIdWrapupTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdAttributesTest"/>
+</testsuite>
