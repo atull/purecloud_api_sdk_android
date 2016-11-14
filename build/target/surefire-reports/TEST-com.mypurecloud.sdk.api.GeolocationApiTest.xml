@@ -59,8 +59,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.26" classname="com.mypurecloud.sdk.api.GeolocationApiTest" name="getSettingsTest"/>
+  <testcase time="0.261" classname="com.mypurecloud.sdk.api.GeolocationApiTest" name="getSettingsTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.GeolocationApiTest" name="patchSettingsTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.GeolocationApiTest" name="patchUserIdGeolocationsClientIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.GeolocationApiTest" name="patchUserIdGeolocationsClientIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.GeolocationApiTest" name="getUserIdGeolocationsClientIdTest"/>
 </testsuite>
