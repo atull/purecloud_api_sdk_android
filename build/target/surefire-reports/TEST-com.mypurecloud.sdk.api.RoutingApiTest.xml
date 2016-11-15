@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.446" errors="0" skipped="0" tests="45" name="com.mypurecloud.sdk.api.RoutingApiTest">
+<testsuite failures="0" time="0.443" errors="0" skipped="0" tests="45" name="com.mypurecloud.sdk.api.RoutingApiTest">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
@@ -59,48 +59,48 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.27" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteEmailDomainsDomainIdTest"/>
+  <testcase time="0.268" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteEmailDomainsDomainIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putUtilizationTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postUserIdRoutingskillsTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getUtilizationTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdWrapupcodesTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteUtilizationTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getWrapupcodesTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdWrapupcodesTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteUtilizationTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getWrapupcodesTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdUsersTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getEmailDomainsDomainnameRoutesRouteIdTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="patchQueuesQueueIdUsersTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putEmailDomainsDomainnameRoutesRouteIdTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getEmailDomainsDomainnameRoutesTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getEmailDomainsDomainnameRoutesRouteIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="patchQueuesQueueIdUsersTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putEmailDomainsDomainnameRoutesRouteIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getEmailDomainsDomainnameRoutesTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postQueuesObservationsQueryTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteEmailDomainsDomainnameRoutesRouteIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postQueuesQueueIdWrapupcodesTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteWrapupcodesCodeIdTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postQueuesQueueIdWrapupcodesTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteWrapupcodesCodeIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteQueuesQueueIdWrapupcodesCodeIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getSkillsSkillIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsEmailsTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdEstimatedwaittimeTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putWrapupcodesCodeIdTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getEmailDomainsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdEstimatedwaittimeTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putWrapupcodesCodeIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getEmailDomainsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteUserIdRoutingskillsSkillIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteSkillsSkillIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postSkillsTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsChatsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsChatsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postQueuesTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getUserIdRoutingskillsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postWrapupcodesTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="patchQueuesQueueIdUsersMemberIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="patchQueuesQueueIdUsersMemberIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postEmailDomainsDomainnameRoutesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteQueuesQueueIdUsersMemberIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getSkillsTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putQueuesQueueIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putQueuesQueueIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="putUserIdRoutingskillsSkillIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsCallsTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsCallbacksTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteQueuesQueueIdTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postQueuesQueueIdUsersTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsCallsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getQueuesQueueIdConversationsCallbacksTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="deleteQueuesQueueIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postQueuesQueueIdUsersTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getEmailSetupTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="getWrapupcodesCodeIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.RoutingApiTest" name="postEmailDomainsTest"/>

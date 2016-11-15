@@ -60,6 +60,6 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase time="0.261" classname="com.mypurecloud.sdk.api.StationsApiTest" name="getStationIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.StationsApiTest" name="deleteStationIdAssociateduserTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.StationsApiTest" name="getStationsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.StationsApiTest" name="deleteStationIdAssociateduserTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.StationsApiTest" name="getStationsTest"/>
 </testsuite>
