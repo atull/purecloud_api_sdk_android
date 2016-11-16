@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.503" errors="0" skipped="0" tests="65" name="com.mypurecloud.sdk.api.ConversationsApiTest">
+<testsuite failures="0" time="0.508" errors="0" skipped="0" tests="65" name="com.mypurecloud.sdk.api.ConversationsApiTest">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
@@ -59,38 +59,38 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.273" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationsTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationsConversationIdDetailsTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdMessagesMessageIdTest"/>
+  <testcase time="0.274" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationsTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationsConversationIdDetailsTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdMessagesMessageIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdParticipantsParticipantIdTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdParticipantsParticipantIdWrapupcodesTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdParticipantsParticipantIdWrapupcodesTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationIdParticipantsParticipantIdCallbacksTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallbacksCallbackIdParticipantsParticipantIdWrapupTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallbacksCallbackIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdConsultTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationsDetailsQueryTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postFaxesTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postChatsChatIdParticipantsParticipantIdReplaceTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="putEmailsEmailIdMessagesDraftTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallbacksCallbackIdParticipantsParticipantIdWrapupcodesTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsChatIdParticipantsParticipantIdWrapupcodesTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationIdParticipantsParticipantIdReplaceTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdMessagesDraftTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="deleteConversationIdParticipantsParticipantIdCodesAddcommunicationcodeTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationsAggregatesQueryTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdParticipantsParticipantIdWrapupTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsHistoryTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdMessagesDraftTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="deleteConversationIdParticipantsParticipantIdCodesAddcommunicationcodeTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationsAggregatesQueryTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsEmailIdParticipantsParticipantIdWrapupTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsHistoryTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallbacksCallbackIdParticipantsParticipantIdReplaceTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdReplaceTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdReplaceTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdParticipantsParticipantIdCommunicationsCommunicationIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="deleteCallsCallIdParticipantsParticipantIdConsultTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postConversationsConversationIdDetailsPropertiesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdMonitorTest"/>
@@ -101,17 +101,17 @@
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsChatIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchConversationIdParticipantsParticipantIdAttributesTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchChatsChatIdParticipantsParticipantIdAttributesTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsMaximumconferencepartiesTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsMaximumconferencepartiesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getEmailsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchEmailsEmailIdParticipantsParticipantIdAttributesTest"/>
   <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdParticipantsParticipantIdWrapupcodesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="deleteEmailsEmailIdMessagesDraftAttachmentsAttachmentIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchEmailsEmailIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsChatIdParticipantsParticipantIdWrapupTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationIdParticipantsParticipantIdWrapupcodesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationIdParticipantsParticipantIdWrapupcodesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallsCallIdParticipantsParticipantIdAttributesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallbacksTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postEmailsEmailIdParticipantsParticipantIdReplaceTest"/>
@@ -119,9 +119,9 @@
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getChatsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchEmailsEmailIdParticipantsParticipantIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getConversationIdTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchConversationIdParticipantsParticipantIdTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdConsultTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdParticipantsParticipantIdWrapupTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchConversationIdParticipantsParticipantIdTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsCallIdParticipantsParticipantIdConsultTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="getCallsCallIdParticipantsParticipantIdWrapupTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="postCallsTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdAttributesTest"/>
+  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ConversationsApiTest" name="patchCallbacksCallbackIdParticipantsParticipantIdAttributesTest"/>
 </testsuite>

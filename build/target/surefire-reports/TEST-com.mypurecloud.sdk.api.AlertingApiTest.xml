@@ -61,12 +61,12 @@
   </properties>
   <testcase time="0.262" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="deleteInteractionstatsAlertsAlertIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsAlertsTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="deleteInteractionstatsRulesRuleIdTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="deleteInteractionstatsRulesRuleIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="postInteractionstatsRulesTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsAlertsAlertIdTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsRulesRuleIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsAlertsAlertIdTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsRulesRuleIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="putInteractionstatsRulesRuleIdTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsRulesTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsAlertsUnreadTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="getInteractionstatsAlertsUnreadTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.AlertingApiTest" name="putInteractionstatsAlertsAlertIdTest"/>
 </testsuite>

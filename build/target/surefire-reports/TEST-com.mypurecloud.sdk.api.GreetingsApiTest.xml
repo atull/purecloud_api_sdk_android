@@ -59,16 +59,16 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.263" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="putDefaultsTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getUserIdGreetingsDefaultsTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="deleteGreetingIdTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="putGreetingIdTest"/>
+  <testcase time="0.265" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="putDefaultsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getUserIdGreetingsDefaultsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="deleteGreetingIdTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="putGreetingIdTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getUserIdGreetingsTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getGreetingIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getGreetingIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="postGreetingsTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="postUserIdGreetingsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="postUserIdGreetingsTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="putUserIdGreetingsDefaultsTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getDefaultsTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getDefaultsTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getGreetingIdMediaTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getGreetingsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.GreetingsApiTest" name="getGreetingsTest"/>
 </testsuite>
