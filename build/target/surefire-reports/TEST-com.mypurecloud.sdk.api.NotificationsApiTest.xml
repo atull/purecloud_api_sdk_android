@@ -59,11 +59,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.26" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="getAvailabletopicsTest"/>
+  <testcase time="0.268" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="getAvailabletopicsTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="putChannelsChannelIdSubscriptionsTest"/>
   <testcase time="0.008" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="getChannelsChannelIdSubscriptionsTest"/>
-  <testcase time="0.009" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="deleteChannelsChannelIdSubscriptionsTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="postChannelsTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="postChannelsChannelIdSubscriptionsTest"/>
-  <testcase time="0.009" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="getChannelsTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="deleteChannelsChannelIdSubscriptionsTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="postChannelsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="postChannelsChannelIdSubscriptionsTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.NotificationsApiTest" name="getChannelsTest"/>
 </testsuite>

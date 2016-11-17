@@ -59,10 +59,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.263" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="putRecordingIdTest"/>
+  <testcase time="0.26" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="putRecordingIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="getRecordingIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="getSummaryTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="getRecordingIdMediaTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="deleteRecordingIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="getUserrecordingsTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="getRecordingIdMediaTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="deleteRecordingIdTest"/>
+  <testcase time="0.008" classname="com.mypurecloud.sdk.api.UserRecordingsApiTest" name="getUserrecordingsTest"/>
 </testsuite>
