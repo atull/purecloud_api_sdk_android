@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.301" errors="0" skipped="0" tests="6" name="com.mypurecloud.sdk.api.FaxApiTest">
+<testsuite failures="0" time="0.294" errors="0" skipped="0" tests="6" name="com.mypurecloud.sdk.api.FaxApiTest">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
@@ -59,9 +59,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.266" classname="com.mypurecloud.sdk.api.FaxApiTest" name="deleteDocumentsDocumentIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.FaxApiTest" name="getSummaryTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.FaxApiTest" name="putDocumentsDocumentIdTest"/>
+  <testcase time="0.261" classname="com.mypurecloud.sdk.api.FaxApiTest" name="deleteDocumentsDocumentIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.FaxApiTest" name="getSummaryTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.FaxApiTest" name="putDocumentsDocumentIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.FaxApiTest" name="getDocumentsTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.FaxApiTest" name="getDocumentsDocumentIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.FaxApiTest" name="getDocumentsDocumentIdContentTest"/>

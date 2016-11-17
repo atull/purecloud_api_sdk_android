@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.428" errors="0" skipped="0" tests="34" name="com.mypurecloud.sdk.api.UsersApiTest">
+<testsuite failures="0" time="0.425" errors="0" skipped="0" tests="34" name="com.mypurecloud.sdk.api.UsersApiTest">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
@@ -59,19 +59,19 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.277" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdCallforwardingTest"/>
+  <testcase time="0.272" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdCallforwardingTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.UsersApiTest" name="patchUserIdCallforwardingTest"/>
   <testcase time="0.008" classname="com.mypurecloud.sdk.api.UsersApiTest" name="postUserIdRoutingskillsTest"/>
   <testcase time="0.008" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdOutofofficeTest"/>
   <testcase time="0.008" classname="com.mypurecloud.sdk.api.UsersApiTest" name="postUsersAggregatesQueryTest"/>
   <testcase time="0.008" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdCallforwardingTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdQueuesTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdQueuesTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getSearchTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="postUsersTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdRoutingstatusTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="patchUserIdGeolocationsClientIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="deleteUserIdTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="deleteUserIdStationAssociatedstationTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.UsersApiTest" name="deleteUserIdStationAssociatedstationTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="postUsersObservationsQueryTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdStationDefaultstationStationIdTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.UsersApiTest" name="deleteUserIdRoutingskillsSkillIdTest"/>
@@ -81,16 +81,16 @@
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="patchUserIdQueuesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getMeTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdStationAssociatedstationStationIdTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdRoutingskillsTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdRoutingskillsTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdRoutingstatusTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="patchUserIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdStationTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="deleteUserIdStationDefaultstationTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdRolesTest"/>
-  <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdRoutingskillsSkillIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdRolesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="putUserIdRoutingskillsSkillIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdRolesTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="deleteUserIdRolesTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.UsersApiTest" name="deleteUserIdRolesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="getUserIdGeolocationsClientIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.UsersApiTest" name="postSearchTest"/>
 </testsuite>

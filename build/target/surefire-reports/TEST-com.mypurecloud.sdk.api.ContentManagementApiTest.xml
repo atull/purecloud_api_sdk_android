@@ -59,21 +59,21 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.269" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSharesTest"/>
+  <testcase time="0.271" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSharesTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="deleteWorkspacesWorkspaceIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="deleteDocumentsDocumentIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getQueryTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getQueryTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSharedSharedIdTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postDocumentsDocumentIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postWorkspacesWorkspaceIdTagvaluesTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSecurityprofilesSecurityprofileIdTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postDocumentsDocumentIdTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postWorkspacesWorkspaceIdTagvaluesTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSecurityprofilesSecurityprofileIdTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSharesShareIdTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postAuditqueryTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postAuditqueryTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getWorkspacesWorkspaceIdTagvaluesTagIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="putWorkspacesWorkspaceIdTagvaluesTagIdTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="deleteSharesShareIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="deleteSharesShareIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="deleteStatusStatusIdTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getWorkspacesWorkspaceIdMembersMemberIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getWorkspacesWorkspaceIdMembersMemberIdTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="deleteWorkspacesWorkspaceIdTagvaluesTagIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="deleteWorkspacesWorkspaceIdMembersMemberIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getStatusStatusIdTest"/>
@@ -82,18 +82,18 @@
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getWorkspacesWorkspaceIdTagvaluesTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getDocumentsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getWorkspacesTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getUsageTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getUsageTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postSharesTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getWorkspacesWorkspaceIdMembersTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postWorkspacesWorkspaceIdTagvaluesQueryTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getDocumentsDocumentIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getWorkspacesWorkspaceIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getDocumentsDocumentIdContentTest"/>
-  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postQueryTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postQueryTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="putWorkspacesWorkspaceIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postDocumentsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="putWorkspacesWorkspaceIdMembersMemberIdTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getDocumentsDocumentIdAuditsTest"/>
   <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="postDocumentsDocumentIdContentTest"/>
-  <testcase time="0.002" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSecurityprofilesTest"/>
+  <testcase time="0.003" classname="com.mypurecloud.sdk.api.ContentManagementApiTest" name="getSecurityprofilesTest"/>
 </testsuite>

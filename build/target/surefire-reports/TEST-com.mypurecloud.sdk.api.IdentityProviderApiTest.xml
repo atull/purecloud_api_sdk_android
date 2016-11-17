@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.405" errors="0" skipped="0" tests="22" name="com.mypurecloud.sdk.api.IdentityProviderApiTest">
+<testsuite failures="0" time="0.374" errors="0" skipped="0" tests="22" name="com.mypurecloud.sdk.api.IdentityProviderApiTest">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
@@ -59,24 +59,24 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.274" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getOneloginTest"/>
+  <testcase time="0.266" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getOneloginTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putAdfsTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteSalesforceTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putPurecloudTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putSalesforceTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getIdentityprovidersTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getSalesforceTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putOktaTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putOneloginTest"/>
-  <testcase time="0.008" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteProviderIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteOneloginTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putProviderIdTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getProviderIdTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteSalesforceTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putPurecloudTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putSalesforceTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getIdentityprovidersTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getSalesforceTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putOktaTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putOneloginTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteProviderIdTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteOneloginTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putProviderIdTest"/>
+  <testcase time="0.005" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getProviderIdTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteCicTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getPurecloudTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getAdfsTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deleteAdfsTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putCicTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="putCicTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="deletePurecloudTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getCicTest"/>
   <testcase time="0.004" classname="com.mypurecloud.sdk.api.IdentityProviderApiTest" name="getOktaTest"/>

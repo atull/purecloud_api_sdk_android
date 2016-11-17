@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.331" errors="0" skipped="0" tests="11" name="com.mypurecloud.sdk.api.VoicemailApiTest">
+<testsuite failures="0" time="0.325" errors="0" skipped="0" tests="11" name="com.mypurecloud.sdk.api.VoicemailApiTest">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
@@ -59,15 +59,15 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.269" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getMessagesMessageIdMediaTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="deleteMessagesMessageIdTest"/>
+  <testcase time="0.264" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getMessagesMessageIdMediaTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="deleteMessagesMessageIdTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="putMessagesMessageIdTest"/>
-  <testcase time="0.006" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getMessagesTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="putPolicyTest"/>
-  <testcase time="0.007" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getPolicyTest"/>
+  <testcase time="0.007" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getMessagesTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="putPolicyTest"/>
+  <testcase time="0.006" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getPolicyTest"/>
   <testcase time="0.007" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getUserpoliciesUserIdTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="deleteMessagesTest"/>
   <testcase time="0.006" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="patchUserpoliciesUserIdTest"/>
   <testcase time="0.005" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getMailboxTest"/>
-  <testcase time="0.005" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getMessagesMessageIdTest"/>
+  <testcase time="0.004" classname="com.mypurecloud.sdk.api.VoicemailApiTest" name="getMessagesMessageIdTest"/>
 </testsuite>

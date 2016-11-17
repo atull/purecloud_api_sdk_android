@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mypurecloud.sdk.api.SearchApiTest
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.319 sec
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.322 sec
