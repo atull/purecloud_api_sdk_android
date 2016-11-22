@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mypurecloud.sdk.api.FaxApiTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.297 sec
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.301 sec

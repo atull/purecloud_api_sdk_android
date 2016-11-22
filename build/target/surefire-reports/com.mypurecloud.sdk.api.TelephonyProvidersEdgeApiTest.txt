@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mypurecloud.sdk.api.TelephonyProvidersEdgeApiTest
 -------------------------------------------------------------------------------
-Tests run: 109, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.624 sec
+Tests run: 109, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.63 sec
