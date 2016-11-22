@@ -16,7 +16,7 @@ hs_err_pid*
 /buildScripts/node_modules/
 /buildScripts/npm-debug.log
 /buildScripts/configureLocalEnvironment.sh
-/bin/
+/bin/*.*
 npm-debug.log
 /local/
 newVersion.md
